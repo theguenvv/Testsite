@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon premier site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Bienvenue sur mon site</h1>
+    </header>
+
+    <main>
+        <p>Bonjour 👋, ceci est mon premier site web.</p>
+
+        <p class="highlight">
+            Je suis en train d'apprendre le HTML et le CSS !
+        </p>
+
+        <a href="https://google.com" target="_blank">Aller sur Google</a>
+    </main>
+
+    <footer>
+        <p>© 2026 - Mon site</p>
+    </footer>
+</body>
+</html>
